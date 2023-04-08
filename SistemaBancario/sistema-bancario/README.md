@@ -11,11 +11,11 @@ Projeto com o objetivo de exercitar alguns conceitos como:
 - uso dos principais status codes HTTP;
 
 ## Estrutura de dados:
- *** Nome
- *** CPF (Não pode repetir)
- *** Data de Nascimento (Tem que ser maior que 18)
- *** Saldo (Começa zerado)   
- *** Extrato (Array de Transações):
+ * Nome;
+ * CPF (Não pode repetir);
+ * Data de Nascimento (Tem que ser maior que 18);
+ * Saldo (Começa zerado);
+ * Extrato (Array de Transações):
     - Valor;
     - Data;
     - Descrição; 
