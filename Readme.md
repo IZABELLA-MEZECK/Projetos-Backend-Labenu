@@ -14,6 +14,6 @@ Tecnologias usadas nos projetos:
 
 Projetos de estudos já adicionados:
 
-* Sistema Bancário: ;
-* To Do List: https://github.com/IZABELLA-MEZECK/projetos-backend-labenu/tree/master/ToDoList/to-do-list;
-* LabECommerce: ;
+* Sistema Bancário: [Projeto Sistema Bancário](https://github.com/IZABELLA-MEZECK/projetos-backend-labenu/tree/master/SistemaBancario/sistema-bancario);
+* To Do List: [Projeto To Do List](https://github.com/IZABELLA-MEZECK/projetos-backend-labenu/tree/master/ToDoList/)to-do-list;
+* LabECommerce: [Projeto LabECommerce]();

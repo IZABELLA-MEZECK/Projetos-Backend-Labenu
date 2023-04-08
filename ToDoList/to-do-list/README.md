@@ -156,4 +156,4 @@ O objetivo do projeto é exercitar os conceitos de banco de dados SQL: Criar, le
     
     - O endpoint retorna um erro se não encontrar a task;
     - O endpoint retorna informações tanto da tarefa como do usuário criador;
-    - O código converte a data recebida do banco para o formato mostrado acima (`DD/MM/YYYY`);
+    - O código converte a data recebida do banco para o formato mostrado acima (`DD/MM/YYYY`).
