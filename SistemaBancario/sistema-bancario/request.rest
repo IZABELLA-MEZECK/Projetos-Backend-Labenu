@@ -1,0 +1,31 @@
+//Para requisições com body:
+//Content-Type: application/json
+
+//Para requisições com headers
+//Authorization: "token"
+
+###
+POST http://localhost:3003/accounts
+Content-Type: application/json
+
+{
+    "name": "Bella",
+    "CPF": "845.668.225-85",
+    "dateOFBirth": "11/09/1999"
+}
+
+###
+GET http://localhost:3003/accounts
+
+###
+GET http://localhost:3003/CPF/accounts?CPF=845.668.225-85
+
+###
+PUT http://localhost:3003/accounts/balance
+Content-Type: application/json
+
+{
+    "name": "Bella",
+    "CPF": "845.668.225-85",
+    "ransactionAmount": 500
+}
