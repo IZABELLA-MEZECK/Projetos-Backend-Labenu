@@ -12,4 +12,8 @@ Tecnologias usadas nos projetos:
 * Restful
 * HTTP
 
+Projetos de estudos já adicionados:
 
+* Sistema Bancário: ;
+* To Do List: https://github.com/IZABELLA-MEZECK/projetos-backend-labenu/tree/master/ToDoList/to-do-list;
+* LabECommerce: ;
