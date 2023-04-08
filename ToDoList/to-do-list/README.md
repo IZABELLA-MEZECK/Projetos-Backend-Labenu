@@ -68,7 +68,7 @@ O objetivo do projeto é exercitar os conceitos de banco de dados SQL: Criar, le
     - O código valida se os três campos estão completos (ou seja se não foram enviados ou se não estão vazios) e retorna um erro caso não estejam válidos;
     - O código gera o id do usuário;
 
-    - **2. Pegar usuário pelo id**
+- **2. Pegar usuário pelo id**
     
     **Método:** GET
     **Path:** `/user/:id`
@@ -88,7 +88,7 @@ O objetivo do projeto é exercitar os conceitos de banco de dados SQL: Criar, le
     
     - O endpoint retorna um erro se não encontra o usuário;
 
-    - **3. Editar usuário**
+- **3. Editar usuário**
     
     **Método:** PUT
     **Path:** `/user/edit/:id`
@@ -109,7 +109,7 @@ O objetivo do projeto é exercitar os conceitos de banco de dados SQL: Criar, le
     - O código só altera o que for enviado;
     - Se algum valor enviado for vazio, retorna um erro;
 
-    - **4. Criar tarefa**
+- **4. Criar tarefa**
     
     **Método:** POST
     **Path:** `/task`
@@ -131,7 +131,7 @@ O objetivo do projeto é exercitar os conceitos de banco de dados SQL: Criar, le
     - O código gera o id da tarefa;
     - A data é recebida no formato mostrado acima: `DD/MM/YYYY` e o código faz a conversão necessária para salvar no banco;
 
-    - **5. Pegar tarefa pelo id**
+- **5. Pegar tarefa pelo id**
     
     **Método:** GET
     **Path:** `/task/:id`
