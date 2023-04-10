@@ -1,4 +1,5 @@
 # Repositório de Estudos de Backend do Bootcamp Desenvolvimento Web Full Stack da Labenu.
+## Tempo de Estudo: agosto 2022 a maio 2023.
 
 Tecnologias usadas nos projetos:
 
